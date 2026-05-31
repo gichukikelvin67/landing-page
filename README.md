@@ -25,7 +25,7 @@ TrendMart Collections Landing Page
 *   GoogleFonts
 
 # **H1 Screenshots**
-
+<img width="1872" height="2053" alt="Image" src="https://github.com/user-attachments/assets/762bbc56-0804-4e8f-b7e1-63f3be47f6ef" />
 # **H1 License**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
